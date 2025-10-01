@@ -15,7 +15,7 @@
   </style>
 </head>
 <body>
-  <h1>hello</h1>
+  <h1>hello o</h1>
   <h2>Register Form</h2>
   <form id="registerForm">
     <label>Name:</label>
