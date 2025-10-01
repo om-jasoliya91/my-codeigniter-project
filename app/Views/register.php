@@ -15,7 +15,7 @@
   </style>
 </head>
 <body>
-  <p>hello</p>
+<p>how are you</p>
   <h2>Register Form</h2>
   <form id="registerForm">
     <label>Name:</label>
@@ -31,7 +31,7 @@
   </form>
 
   <div id="response"></div>
-
+<div>kem cho</div>
 <script>
 $(function(){
   $("#registerForm").validate({
